@@ -1,0 +1,7 @@
+../Core/USART_Debug/usart2.c:26:6:USART2_Init	2
+../Core/USART_Debug/usart2.c:33:17:USART2_Write	7
+../Core/USART_Debug/usart2.c:66:17:USART2_WriteString	2
+../Core/USART_Debug/usart2.c:75:17:USART2_Printf	4
+../Core/USART_Debug/usart2.c:102:17:USART2_Flush	3
+../Core/USART_Debug/usart2.c:116:6:HAL_UART_TxCpltCallback	3
+../Core/USART_Debug/usart2.c:126:6:HAL_UART_ErrorCallback	3

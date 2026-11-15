@@ -1,0 +1,7 @@
+../Core/USART_Debug/usart2.c:26:6:USART2_Init	16	static,ignoring_inline_asm
+../Core/USART_Debug/usart2.c:33:17:USART2_Write	24	static,ignoring_inline_asm
+../Core/USART_Debug/usart2.c:66:17:USART2_WriteString	16	static
+../Core/USART_Debug/usart2.c:75:17:USART2_Printf	280	static
+../Core/USART_Debug/usart2.c:102:17:USART2_Flush	24	static,ignoring_inline_asm
+../Core/USART_Debug/usart2.c:116:6:HAL_UART_TxCpltCallback	24	static,ignoring_inline_asm
+../Core/USART_Debug/usart2.c:126:6:HAL_UART_ErrorCallback	24	static,ignoring_inline_asm
