@@ -1,0 +1,9 @@
+../Core/MPU6050/mpu6050.c:19:16:mpu_be_to_i16	24	static
+../Core/MPU6050/mpu6050.c:27:25:mpu_read_regs	32	static
+../Core/MPU6050/mpu6050.c:41:25:mpu_write_reg	32	static
+../Core/MPU6050/mpu6050.c:55:18:MPU6050_Init	24	static
+../Core/MPU6050/mpu6050.c:106:18:MPU6050_Read	48	static
+../Core/MPU6050/mpu6050.c:134:18:MPU6050_CalibrateGyro	56	static
+../Core/MPU6050/mpu6050.c:160:6:MPU6050_GetGyroBias	24	static
+../Core/MPU6050/mpu6050.c:167:10:MPU6050_GetErrorCount	4	static
+../Core/MPU6050/mpu6050.c:172:18:MPU6050_IsDataReady	24	static

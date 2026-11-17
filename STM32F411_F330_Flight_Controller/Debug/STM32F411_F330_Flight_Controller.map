@@ -78,18 +78,163 @@ Discarded input sections
  .ARM.attributes
                 0x00000000       0x20 D:/Embedded_system/STM32/IDE/STM32CubeIDE_1.19.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
  .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
+ .group         0x00000000        0xc ./Core/MPU6050/mpu6050.o
  .text          0x00000000        0x0 ./Core/MPU6050/mpu6050.o
  .data          0x00000000        0x0 ./Core/MPU6050/mpu6050.o
  .bss           0x00000000        0x0 ./Core/MPU6050/mpu6050.o
- .debug_info    0x00000000       0x22 ./Core/MPU6050/mpu6050.o
- .debug_abbrev  0x00000000       0x12 ./Core/MPU6050/mpu6050.o
- .debug_aranges
+ .bss.s_hi2c    0x00000000        0x4 ./Core/MPU6050/mpu6050.o
+ .bss.s_bias_x  0x00000000        0x4 ./Core/MPU6050/mpu6050.o
+ .bss.s_bias_y  0x00000000        0x4 ./Core/MPU6050/mpu6050.o
+ .bss.s_bias_z  0x00000000        0x4 ./Core/MPU6050/mpu6050.o
+ .bss.s_calibrated
+                0x00000000        0x1 ./Core/MPU6050/mpu6050.o
+ .bss.s_err_count
+                0x00000000        0x4 ./Core/MPU6050/mpu6050.o
+ .text.mpu_be_to_i16
+                0x00000000       0x38 ./Core/MPU6050/mpu6050.o
+ .text.mpu_read_regs
+                0x00000000       0x54 ./Core/MPU6050/mpu6050.o
+ .text.mpu_write_reg
+                0x00000000       0x54 ./Core/MPU6050/mpu6050.o
+ .text.MPU6050_Init
+                0x00000000       0xfc ./Core/MPU6050/mpu6050.o
+ .text.MPU6050_Read
+                0x00000000      0x1a8 ./Core/MPU6050/mpu6050.o
+ .text.MPU6050_CalibrateGyro
+                0x00000000       0xf8 ./Core/MPU6050/mpu6050.o
+ .text.MPU6050_GetGyroBias
+                0x00000000       0x50 ./Core/MPU6050/mpu6050.o
+ .text.MPU6050_GetErrorCount
                 0x00000000       0x18 ./Core/MPU6050/mpu6050.o
- .debug_macro   0x00000000       0x11 ./Core/MPU6050/mpu6050.o
+ .text.MPU6050_IsDataReady
+                0x00000000       0x50 ./Core/MPU6050/mpu6050.o
+ .debug_info    0x00000000      0xa44 ./Core/MPU6050/mpu6050.o
+ .debug_abbrev  0x00000000      0x226 ./Core/MPU6050/mpu6050.o
+ .debug_aranges
+                0x00000000       0x60 ./Core/MPU6050/mpu6050.o
+ .debug_rnglists
+                0x00000000       0x46 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x2c4 ./Core/MPU6050/mpu6050.o
  .debug_macro   0x00000000      0xad8 ./Core/MPU6050/mpu6050.o
- .debug_line    0x00000000       0x3a ./Core/MPU6050/mpu6050.o
- .debug_str     0x00000000     0x2eaa ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x22 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x8e ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x51 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x103 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x6a ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x1df ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x2a1 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x2e ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x28 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x1c ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x22 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0xfb ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000     0x1011 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x11f ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000     0xb968 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x6d ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000     0x3693 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x190 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x5c ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x45c ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x9e9 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x115 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x11b ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0xa5 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x15f ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x287 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x5f ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x236 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x132 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x264 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x2e ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x1b5 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x22 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0xd6 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x127 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x85 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x89 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x8ed ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x47 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x2aa ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x126 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0xa6 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x61 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x2a ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x43 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x34 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x364 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x16 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x4a ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x34 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x10 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x58 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x8e ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x1c ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000      0x17e ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x10 ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x3c ./Core/MPU6050/mpu6050.o
+ .debug_macro   0x00000000       0x20 ./Core/MPU6050/mpu6050.o
+ .debug_line    0x00000000      0xb71 ./Core/MPU6050/mpu6050.o
+ .debug_str     0x00000000    0x8c60d ./Core/MPU6050/mpu6050.o
  .comment       0x00000000       0x44 ./Core/MPU6050/mpu6050.o
+ .debug_frame   0x00000000      0x14c ./Core/MPU6050/mpu6050.o
  .ARM.attributes
                 0x00000000       0x34 ./Core/MPU6050/mpu6050.o
  .group         0x00000000        0xc ./Core/Src/freertos.o
@@ -325,6 +470,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x6d ./Core/Src/main.o
  .debug_macro   0x00000000     0x3693 ./Core/Src/main.o
  .debug_macro   0x00000000      0x190 ./Core/Src/main.o
+ .debug_macro   0x00000000       0x5c ./Core/Src/main.o
  .debug_macro   0x00000000      0x45c ./Core/Src/main.o
  .debug_macro   0x00000000      0x9e9 ./Core/Src/main.o
  .debug_macro   0x00000000      0x115 ./Core/Src/main.o
@@ -1082,6 +1228,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x4bf ./Core/USART_Debug/usart2.o
  .debug_macro   0x00000000       0xb5 ./Core/USART_Debug/usart2.o
  .debug_macro   0x00000000       0xaa ./Core/USART_Debug/usart2.o
+ .debug_macro   0x00000000       0x20 ./Core/USART_Debug/usart2.o
  .debug_macro   0x00000000       0x1c ./Core/USART_Debug/usart2.o
  .debug_macro   0x00000000       0x10 ./Core/USART_Debug/usart2.o
  .debug_macro   0x00000000       0x16 ./Core/USART_Debug/usart2.o
@@ -3904,6 +4051,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x8e ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
  .debug_macro   0x00000000       0x1c ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
  .debug_macro   0x00000000      0x17e ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00000000       0x10 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
  .debug_macro   0x00000000       0x3c ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
  .debug_macro   0x00000000       0x20 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
  .debug_macro   0x00000000      0x103 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
@@ -6266,49 +6414,46 @@ LOAD D:/Embedded_system/STM32/IDE/STM32CubeIDE_1.19.0/STM32CubeIDE/plugins/com.s
  .debug_rnglists
                 0x00001216       0x42 ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
 
-.debug_macro    0x00000000     0x392f
+.debug_macro    0x00000000     0x38a3
  .debug_macro   0x00000000      0x33f ./Core/Src/main.o
- .debug_macro   0x0000033f       0x5c ./Core/Src/main.o
- .debug_macro   0x0000039b      0x16f ./Core/Src/main.o
- .debug_macro   0x0000050a       0x66 ./Core/Src/main.o
- .debug_macro   0x00000570       0x74 ./Core/Src/main.o
- .debug_macro   0x000005e4       0xdd ./Core/Src/main.o
- .debug_macro   0x000006c1      0x1f1 ./Core/Src/stm32f4xx_hal_msp.o
- .debug_macro   0x000008b2      0x1e7 ./Core/Src/stm32f4xx_hal_timebase_tim.o
- .debug_macro   0x00000a99      0x1fb ./Core/Src/stm32f4xx_it.o
- .debug_macro   0x00000c94      0x1e7 ./Core/Src/system_stm32f4xx.o
- .debug_macro   0x00000e7b      0x3ae ./Core/USART_Debug/usart2.o
- .debug_macro   0x00001229       0x87 ./Core/USART_Debug/usart2.o
- .debug_macro   0x000012b0       0x9a ./Core/USART_Debug/usart2.o
- .debug_macro   0x0000134a       0x16 ./Core/USART_Debug/usart2.o
- .debug_macro   0x00001360       0x20 ./Core/USART_Debug/usart2.o
- .debug_macro   0x00001380       0x1c ./Core/USART_Debug/usart2.o
- .debug_macro   0x0000139c       0x4c ./Core/USART_Debug/usart2.o
- .debug_macro   0x000013e8      0x247 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
- .debug_macro   0x0000162f      0x1e7 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
- .debug_macro   0x00001816      0x1ed ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
- .debug_macro   0x00001a03      0x1ed ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
- .debug_macro   0x00001bf0      0x235 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.o
- .debug_macro   0x00001e25      0x20b ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
- .debug_macro   0x00002030      0x1e8 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o
- .debug_macro   0x00002218      0x1e7 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
- .debug_macro   0x000023ff      0x1e8 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.o
- .debug_macro   0x000025e7      0x3f0 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x000029d7       0x10 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x000029e7       0x10 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x000029f7       0xf5 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00002aec       0x16 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00002b02       0x91 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00002b93       0x8d ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00002c20       0x22 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00002c42      0x199 ./Middlewares/Third_Party/FreeRTOS/Source/list.o
- .debug_macro   0x00002ddb      0x228 ./Middlewares/Third_Party/FreeRTOS/Source/queue.o
- .debug_macro   0x00003003      0x291 ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
- .debug_macro   0x00003294       0x10 ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
- .debug_macro   0x000032a4      0x1ee ./Middlewares/Third_Party/FreeRTOS/Source/timers.o
- .debug_macro   0x00003492       0x97 ./Middlewares/Third_Party/FreeRTOS/Source/timers.o
- .debug_macro   0x00003529      0x246 ./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o
- .debug_macro   0x0000376f      0x1c0 ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x0000033f      0x16f ./Core/Src/main.o
+ .debug_macro   0x000004ae       0x66 ./Core/Src/main.o
+ .debug_macro   0x00000514       0x74 ./Core/Src/main.o
+ .debug_macro   0x00000588       0xdd ./Core/Src/main.o
+ .debug_macro   0x00000665      0x1f1 ./Core/Src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000856      0x1e7 ./Core/Src/stm32f4xx_hal_timebase_tim.o
+ .debug_macro   0x00000a3d      0x1fb ./Core/Src/stm32f4xx_it.o
+ .debug_macro   0x00000c38      0x1e7 ./Core/Src/system_stm32f4xx.o
+ .debug_macro   0x00000e1f      0x3ae ./Core/USART_Debug/usart2.o
+ .debug_macro   0x000011cd       0x87 ./Core/USART_Debug/usart2.o
+ .debug_macro   0x00001254       0x9a ./Core/USART_Debug/usart2.o
+ .debug_macro   0x000012ee       0x16 ./Core/USART_Debug/usart2.o
+ .debug_macro   0x00001304       0x1c ./Core/USART_Debug/usart2.o
+ .debug_macro   0x00001320       0x4c ./Core/USART_Debug/usart2.o
+ .debug_macro   0x0000136c      0x247 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .debug_macro   0x000015b3      0x1e7 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .debug_macro   0x0000179a      0x1ed ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .debug_macro   0x00001987      0x1ed ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .debug_macro   0x00001b74      0x235 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.o
+ .debug_macro   0x00001da9      0x20b ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .debug_macro   0x00001fb4      0x1e8 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o
+ .debug_macro   0x0000219c      0x1e7 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
+ .debug_macro   0x00002383      0x1e8 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.o
+ .debug_macro   0x0000256b      0x3f0 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000295b       0x10 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000296b       0xf5 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00002a60       0x16 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00002a76       0x91 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00002b07       0x8d ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00002b94       0x22 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00002bb6      0x199 ./Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_macro   0x00002d4f      0x228 ./Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_macro   0x00002f77      0x291 ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_macro   0x00003208       0x10 ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_macro   0x00003218      0x1ee ./Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .debug_macro   0x00003406       0x97 ./Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .debug_macro   0x0000349d      0x246 ./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x000036e3      0x1c0 ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
 
 .debug_line     0x00000000    0x1a8fb
  .debug_line    0x00000000      0xbe6 ./Core/Src/main.o
